@@ -1,16 +1,20 @@
 ![Alt Ajay Kumar](https://github.com/ajcodeskills/ajcodeskills/blob/main/_Ajay%20Kumar%20.png)
 ## Ajay Kumar
 
-  I am Ajay Kumar and a recent computer science graduate with a passion of developing scalable web application and working across the full stack. I really enjoy learning languages and frameworks like React, Node and MongoDB. I have designed the clone of some of the   websites using React, Node.js and Mongodb. Curious to learn and apply my skills on a large scale.
+  Results-driven Senior Software Engineer with a proven track record of delivering high-impact solutions at Wrkspot and Meesho. Specialized in React.js, Consistently enhancing user experiences and leading front-end initiatives with precision and innovation. Showcasing strong leadership and a relentless commitment to excellence. Excels in cross-functional collaboration, leveraging deep technical expertise to propel business success.
 
 
 ## Skills and Tools
   * HTML, CSS & JavaScript      
-  * React, Redux and Material UI
-  * Node.js, Express.js, MongoDB
-  * Java
-  * Visual Studio Code
-  * Windows and Linux
+  * React
+  * Redux
+  * MobX
+  * Typescript
+  * Node JS
+  * CSS
+  * Material UI
+  * Tailwind CSS
+    
 
 
 
