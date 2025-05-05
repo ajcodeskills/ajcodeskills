@@ -1,4 +1,4 @@
-![react](https://github.com/user-attachments/assets/899805cb-1d20-4448-8ae4-33f179841c39)## Hi there 👋🏻
+## Hi there 👋🏻
 
 ### I love building creative applications. Here are some ideas to get you started:
   - 🌱 I’m currently learning Something New
