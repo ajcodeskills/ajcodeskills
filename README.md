@@ -7,7 +7,6 @@
   - ⚡ Fun fact: I ❤️ cooking
   
 ## ⚙️ Skills
-*****
   - HTML, CSS
   - JavaScript
   - React.js
@@ -15,3 +14,4 @@
   - MobX
   - Next.js
   - Node.js
+  
