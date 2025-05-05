@@ -9,6 +9,7 @@
 ## ⚙️ Skills
   - HTML, CSS
   - JavaScript
+  - Typescript
   - React.js
   - Redux-toolkit
   - MobX
